@@ -1,0 +1,38 @@
+h1{
+    color: red;
+}
+.q1{
+    border:solid green ;
+    margin-top: 70px ;
+    margin-left: 70px;
+    margin-bottom: 70px;
+}
+.d1{    
+    border:solid green ;
+    padding-top: 70px;
+    padding-bottom: 70px;   
+    padding-left: 70px;
+
+}
+.d2{
+    border:solid red;
+    padding: 30px 0;
+}
+div p{
+    border:solid green;
+   
+}
+.d3{
+    border:solid red ;
+    margin-top: 70px ;
+    margin-left: 70px;
+    margin-bottom: 70px;
+    margin-right: 70px;
+}
+.d4{
+    border:solid red ;
+    padding-top: 70px;
+    padding-bottom: 70px;   
+    padding-left: 70px;
+
+}  
